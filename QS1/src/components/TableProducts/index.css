@@ -1,0 +1,26 @@
+.tableProductsContainer {
+  padding: 12px;
+  margin-top: 12px;
+  border-radius: 8px;
+
+  background-color: white;
+}
+
+.tableProductsContainer table {
+  width: 100%;
+}
+
+.tableProductsContainer table tr {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+
+  height: 30px;
+}
+
+.tableProductsContainer .description {
+  width: 200px;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}

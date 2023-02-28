@@ -1,0 +1,11 @@
+.container {
+  background-color: rgb(232, 230, 230);
+  padding: 24px;
+}
+
+.container-input {
+  width: 100%;
+  border-radius: 8px;
+  padding: 12px;
+  background-color: white;
+}
